@@ -1,2 +1,3 @@
-./01_tokenclassification/chinese-macbert-base
+./chinese-macbert-base
 ./vscode
+./02_reading comprehension/data
